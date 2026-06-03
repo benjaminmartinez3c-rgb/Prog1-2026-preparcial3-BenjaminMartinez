@@ -19,7 +19,7 @@ public class EstacionamientoService
         List<Registro> resultado = new List<Registro>();
         foreach (var r in registros)
         {
-            if (r.VehiculoIngresado.Nombre.ToLower() == nombre.ToLower())
+            if (r.VehiculoIngresado.Nombre.Trim().ToLower() == nombre.Trim().ToLower())
             {
                 resultado.Add(r);
             }
@@ -34,7 +34,7 @@ public class EstacionamientoService
 
         foreach (var r in registros)
         {
-            total =+ r.ObtenerTotal();
+            total += r.ObtenerTotal();
         }
         return total;
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Bj9jD9XQvcU=",
+  "dgSpecHash": "V4rsL8MBdas=",
   "success": true,
-  "projectFilePath": "C:\\Users\\UCSE\\Prog1-2026-preparcial3-BenjaminMartinez\\LogicaNegocio.Tests\\LogicaNegocio.Tests.csproj",
+  "projectFilePath": "C:\\Users\\UCSE\\Prog1-2026-preparcial3-BenjaminMartinez\\logicanegocio.tests\\LogicaNegocio.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\UCSE\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\UCSE\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

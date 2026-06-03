@@ -9,6 +9,9 @@ public class Registro
 
     public Registro(Vehiculo vehiculoIngresado, int cantidadHoras)
     {
+        if (cantidadHoras <= 0)
+            throw new Exception("La cantidad de horas debe ser mayor a cero.");
+        
         ID = ++id;
         VehiculoIngresado = vehiculoIngresado;
         CantidadHoras = cantidadHoras;

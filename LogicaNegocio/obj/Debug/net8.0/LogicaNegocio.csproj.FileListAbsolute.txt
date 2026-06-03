@@ -1,0 +1,12 @@
+C:\Users\UCSE\Prog1-2026-preparcial3-BenjaminMartinez\LogicaNegocio\bin\Debug\net8.0\LogicaNegocio.deps.json
+C:\Users\UCSE\Prog1-2026-preparcial3-BenjaminMartinez\LogicaNegocio\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\UCSE\Prog1-2026-preparcial3-BenjaminMartinez\LogicaNegocio\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\UCSE\Prog1-2026-preparcial3-BenjaminMartinez\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UCSE\Prog1-2026-preparcial3-BenjaminMartinez\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\UCSE\Prog1-2026-preparcial3-BenjaminMartinez\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\UCSE\Prog1-2026-preparcial3-BenjaminMartinez\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\UCSE\Prog1-2026-preparcial3-BenjaminMartinez\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.sourcelink.json
+C:\Users\UCSE\Prog1-2026-preparcial3-BenjaminMartinez\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.dll
+C:\Users\UCSE\Prog1-2026-preparcial3-BenjaminMartinez\LogicaNegocio\obj\Debug\net8.0\refint\LogicaNegocio.dll
+C:\Users\UCSE\Prog1-2026-preparcial3-BenjaminMartinez\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\UCSE\Prog1-2026-preparcial3-BenjaminMartinez\LogicaNegocio\obj\Debug\net8.0\ref\LogicaNegocio.dll
