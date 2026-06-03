@@ -9,12 +9,12 @@ public class Auto : Vehiculo
         EsElectrico = esElectrico;
     }
 
-    public override decimal CalcularPrecio()
+    public override decimal CalcularPrecio(int horas)
     {
         decimal precio = PrecioBasePorHora;
         if (EsElectrico)
         {
-            precio = PrecioBasePorHora*0.90m;
+            precio = PrecioBasePorHora*0.90m*horas;
         }
         return precio;
     }

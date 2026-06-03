@@ -13,5 +13,5 @@ public abstract class Vehiculo
         PrecioBasePorHora = precioBasePorHora;
     }
 
-    public abstract decimal CalcularPrecio();
+    public abstract decimal CalcularPrecio(int horas);
 }
